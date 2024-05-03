@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	font-family: "lucida console";
+}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-family: "lucida console";
+}
+
+h3 {
+	text-align: center;
+	font-size: 1.7em;
+	font-family: "lucida console";
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+footer {
+	text-align: center;
+	font-weight: bold;
+	font-family: "lucida console";
+}
+
+dt {
+	text-align: center;
+	font-weight: bold;
+	font-family: "lucida console";
+}
+
+dd {
+	text-align: center;
+}
+
+legend {
+	font-weight: bold;
+	font-family: "lucida console";
+}
+
+label {
+	font-weight: bold;
+	font-family: "lucida console";
+}

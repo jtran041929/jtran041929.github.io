@@ -1,0 +1,33 @@
+h1::first-letter{
+	font-size: 3em;
+	font-style: italic;
+}
+
+.navbar ul{
+	list-style-type: none;
+	background-color: darkgray;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+
+.navbar a{
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+}
+
+.navbar a:hover{
+	background-color: lightgray;
+}
+
+.navbar li{
+	float: left;
+}
+
+article {
+	font-size: 1.2em;
+}
