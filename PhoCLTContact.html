@@ -32,16 +32,21 @@
 			<br>
 			<legend>Account Information</legend>
 			<br>
-      <label for="username">Username:</label>
+			
+	  <!-- This is data validation for users inputting their username and password with submit and reset button -->
+      <form>
+	  <label for="username">Username:</label>
       <input type="text" id="username" name="username" required minlength="6" maxlength="20" pattern="[a-zA-Z0-9]+"><br><br>
 
       <label for="password">Password:</label>
       <input type="password" id="password" name="password" required minlength="8" maxlength="20"><br><br>
-    </fieldset>
+    
+		</fieldset>
 
-    <input type="submit" value="Submit">
-    <input type="reset" value="Reset">
+		<input type="submit" value="Submit">
+		<input type="reset" value="Reset">
 	
+	</form>
 			<footer> 
 			<br>
 			<br>
